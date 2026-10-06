@@ -1,0 +1,3 @@
+order_id,customer_name,product,quantity,price,order_date,payment_method,customer_type
+18,Samuel,Laptop,1,90000,2026-10-11,M-Pesa,New
+12,Daniel,Laptop,2,88000,2026-10-08,M-Pesa,Returning

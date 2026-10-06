@@ -1,0 +1,3 @@
+order_id,customer_name,product,quantity,price,order_date,payment_method
+38,Test,Laptop,0,85000,2026-10-23,M-Pesa
+39,Test2,Monitor,-2,28000,2026-10-23,Card

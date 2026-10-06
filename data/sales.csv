@@ -1,0 +1,13 @@
+order_id,customer_name,product,quantity,price,order_date,payment_method
+1,Shawn,Laptop,1,85000,2026-10-01,M-Pesa
+2,Brian,Keyboard,2,3500,2026-10-01,Card
+3,Mercy,Monitor,1,28000,2026-10-02,M-Pesa
+4,Kevin,Mouse,3,1500,2026-10-03,Cash
+5,Amina,Laptop,1,85000,2026-10-04,Card
+6,David,Headphones,1,5000,2026-10-05,M-Pesa
+7,Grace,Laptop,1,85000,2026-10-06,M-Pesa
+8,John,Keyboard,1,3500,2026-10-06,Card
+9,Faith,Monitor,2,28000,2026-10-07,M-Pesa
+10,Peter,Mouse,2,1500,2026-10-07,Cash
+11,Lucy,Headphones,1,5000,2026-10-08,Card
+12,Daniel,Laptop,2,85000,2026-10-08,M-Pesa

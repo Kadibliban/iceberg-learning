@@ -1,0 +1,6 @@
+order_id,customer_name,product,quantity,price,order_date,payment_method
+25,Robert,Laptop,1,85000,2026-10-16,M-Pesa
+26,Carol,Monitor,1,28000,2026-10-16,Card
+27,Andrew,Keyboard,2,3500,2026-10-17,M-Pesa
+28,Naomi,Mouse,3,1500,2026-10-17,Cash
+29,Victor,Headphones,1,5000,2026-10-18,Card

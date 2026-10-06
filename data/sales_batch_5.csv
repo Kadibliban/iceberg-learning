@@ -1,0 +1,3 @@
+order_id,customer_name,product,quantity,price,order_date,payment_method,customer_type
+29,Victor,Headphones,2,5500,2026-10-18,Card,Returning
+30,Samuel,Laptop,1,90000,2026-10-19,M-Pesa,Returning
